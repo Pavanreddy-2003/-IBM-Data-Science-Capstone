@@ -27,8 +27,7 @@ Explore the data in order to obtain more insight from the data.
 5. Performed predictive analysis using classification models
 
 # Deliverables:
-Accurate predictive algorithms
-Business case report to stakeholders
+Accurate predictive algorithms and generating Business case report to stakeholders
 
 
 
